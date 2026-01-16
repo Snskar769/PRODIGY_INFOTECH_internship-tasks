@@ -10,8 +10,8 @@ Create a simple image encryption tool using pixel manipulation. The goal is to p
 **Task 03: _Password Complexity Checker_**\
 Build a tool to assess password strength based on criteria like length, uppercase/lowercase letters, numbers, and special characters. It will provide users with immediate feedback on how secure their password is.
 
-**Task 04: _Simple Keylogger_**
+**Task 04: _Simple Keylogger_**\
 Develop a basic program to record and log keystrokes to a local file. This task focuses on understanding how input data is handled and emphasizes the ethical considerations and permissions required for such projects.
 
-**Task 05: _Network Packet Analyzer_**
+**Task 05: _Network Packet Analyzer_**\
 Develop a packet sniffer tool that captures and analyzes network packets. The program will display relevant information such as source/destination IP addresses, protocols, and payload data for educational purposes
