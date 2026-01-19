@@ -17,7 +17,7 @@ def pass_complexity_chck(passwd):
             has_special = True
     leng= 7<len(passwd)<21
     
-    dict = [
+    criteria = [
         (has_upper, "Uppercase letters (A-Z)"),
         (has_lower, "Lowercase letters (a-z)"),
         (has_num, "Numbers (0-9)"),
